@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/ant-1.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/barbecue-1.5-beta1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/barcode4j-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-anim.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-awt-util.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-bridge.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-css.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-dom.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-ext.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-gvt.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-parser.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-script.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-svg-dom.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-svggen.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-util.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/batik-xml.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/bcel-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/castor-core-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/castor-xml-1.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-beanutils-1.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/ecj-4.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/groovy-all-2.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/hibernate-core-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/hsqldb-1.8.0-10.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/itext-2.1.7.js4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jackson-annotations-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jackson-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jackson-databind-2.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jpa.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/lucene-analyzers-common-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/lucene-core-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/lucene-queryparser-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/mondrian-3.1.1.12687.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/olap4j-0.9.7.309-JS-3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/poi-3.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/poi-ooxml-3.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/poi-ooxml-schemas-3.10.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/rhino-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/servlet-api-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/spring-beans-2.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/spring-core-2.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/velocity-1.7-dep.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xml-apis-ext.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Workspace/HelloJasper/lib/xmpcore-5.1.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
